@@ -1,0 +1,397 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: assets/www/res/android/mipmap-xxhdpi/ic_launcher.png
+SHA1-Digest: wXndYwTX4E3x8WLtZjO89R6JTn4=
+
+Name: res/xml/config.xml
+SHA1-Digest: +3GazQPKGO1FQPP58Lc4omNs+2Y=
+
+Name: assets/www/font/material-design-icons/Material-Design-Icons.eot
+SHA1-Digest: /BvBM38zE+rUKyKmehQtTg01azo=
+
+Name: assets/www/material.min.css.map
+SHA1-Digest: UaGGTyzkVCAp0am4DGfW+4kE4Bo=
+
+Name: assets/www/quiz/images/gapfilling-quiz_bg.png
+SHA1-Digest: DmYqRej12d9/DbWzU7SPXKxrXws=
+
+Name: assets/www/quiz/css/lueckentext-puzzle.css
+SHA1-Digest: wIae9MGGwCnB68HxOqBkJEkApVg=
+
+Name: assets/www/quiz/css/matching.css
+SHA1-Digest: hXZKa4aikh5aVwQB6WUCk3s4dLQ=
+
+Name: assets/www/quiz/images/accept.png
+SHA1-Digest: iHKt+GCjec9uq0+vNaZzAbODJcY=
+
+Name: assets/www/bower.json
+SHA1-Digest: 3iTJkNZX9+yc2u2kqEPZu50ncg0=
+
+Name: assets/www/fonts/roboto/Roboto-Regular.eot
+SHA1-Digest: d64+mA7AOGPr4lh6jvnd/QaUHbA=
+
+Name: assets/www/css/style.css
+SHA1-Digest: BoONOrbi1ypNe/L7d14t5qKeR0U=
+
+Name: assets/www/menu.jpg
+SHA1-Digest: 54XRjsj0QoQCSSTLzoE0MiH0LKg=
+
+Name: assets/www/font/roboto/Roboto-Thin.woff
+SHA1-Digest: +8PnHUVslmZ9gIKrkQ45Ru+JJAs=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: 7k0R15Eowd7viwJeIN6gaJ1z0j0=
+
+Name: assets/www/res/android/mipmap-xxxhdpi/ic_launcher.png
+SHA1-Digest: 2tfqgZo2vhxcFpA6NImPCs6ZME4=
+
+Name: assets/www/quiz/sizzle.js
+SHA1-Digest: 3SdsJlz1BZxzi+mZ66n/+Fgj+v4=
+
+Name: assets/www/quiz/css/quiz-print.css
+SHA1-Digest: NSmitSaqjk9ryv5PMg2178K5skU=
+
+Name: assets/www/quiz/images/blume03.gif
+SHA1-Digest: P2LuG3e6WiyLQWeKL+y/lAiYnWQ=
+
+Name: assets/www/quiz/images/eingabe_schliessen.png
+SHA1-Digest: +Lwrkh+ehA+ZrXCWEdb6E8qb538=
+
+Name: assets/www/font/roboto/Roboto-Regular.woff
+SHA1-Digest: dHNN3o2U5yaBcPm5lN7fvctbOhU=
+
+Name: assets/www/material.min.css
+SHA1-Digest: 4IZB69j5BqRCS6EeA6aOr8+UNLU=
+
+Name: assets/www/quiz/css/multiplechoice.css
+SHA1-Digest: 7TfxobgKT7XIE08pR1w7stCdEI0=
+
+Name: assets/www/quiz/css/jumble.css
+SHA1-Digest: wcL6yTuVRf3+/onHxtnMKuSSnlk=
+
+Name: assets/www/fonts/roboto/Roboto-Medium.ttf
+SHA1-Digest: YGDKcmuXYLdvfDR9zp0vof5C7JI=
+
+Name: assets/www/font/material-design-icons/Material-Design-Icons.svg
+SHA1-Digest: dX1UNn8N8Wp4N2nuwLqXT0K9fc4=
+
+Name: assets/www/cordova.js
+SHA1-Digest: 09ZWDrQSJMRayDv25DH7S5m8oNI=
+
+Name: assets/www/quiz/css/memo-print.css
+SHA1-Digest: wdiwlHMIUQ0KsHZxxy7zzX7zFe4=
+
+Name: assets/www/font/roboto/Roboto-Medium.ttf
+SHA1-Digest: YGDKcmuXYLdvfDR9zp0vof5C7JI=
+
+Name: assets/www/quiz/css/lueckentext-print.css
+SHA1-Digest: zhcsQ9OxYmFEXZ1G298VLvy/gHU=
+
+Name: assets/www/font/roboto/Roboto-Light.woff
+SHA1-Digest: YwD2Wb6eg0qyY+/i+zxYHUix57I=
+
+Name: assets/www/quiz/css/memo-ie7.css
+SHA1-Digest: BiLxOTEDr65O79ILVHgXNToLXgk=
+
+Name: assets/www/quiz/multilingual.js
+SHA1-Digest: Zj5mDuPcO2YMzQmKpAfqEkhYgDI=
+
+Name: assets/www/quiz/images/jumble-quiz_bg.png
+SHA1-Digest: x8AHBAiD+TLR4RDAjKnBBrCr0ao=
+
+Name: assets/www/fonts/roboto/Roboto-Regular.ttf
+SHA1-Digest: gktUgMl3qBZuF35TV9ExZMzEX0c=
+
+Name: assets/www/fonts/roboto/Roboto-Bold.woff2
+SHA1-Digest: kzuGbQnCsIdwepjatks4iIZe65Y=
+
+Name: assets/www/quiz/quiz.js
+SHA1-Digest: hAV3W6SQz3sCT5jeFfHT7g4qL4o=
+
+Name: assets/www/material.min.js.map
+SHA1-Digest: xrD0yNkr3NFNT8Puqstg2HPdCCw=
+
+Name: assets/www/js/materialize.js
+SHA1-Digest: 1il1E3tjHO9MdZ+rzx3r8vyJbVA=
+
+Name: assets/www/quiz/css/jumble-print.css
+SHA1-Digest: 7yHlMyXHQU3CRk6MzZ1DZO1Goa0=
+
+Name: assets/www/quiz/css/quiz-ie6.css
+SHA1-Digest: 7aHTpF86MqUKRbPzbjPfMKVFSag=
+
+Name: assets/www/quiz/images/blume09.gif
+SHA1-Digest: x50R7vphIGsVY/I+zjotcPqj4fM=
+
+Name: assets/www/font/roboto/Roboto-Bold.woff2
+SHA1-Digest: kzuGbQnCsIdwepjatks4iIZe65Y=
+
+Name: resources.arsc
+SHA1-Digest: AHgK6CaYDECUH68ntEOgsgp0Cxc=
+
+Name: assets/www/jquery-2.1.1.min.js
+SHA1-Digest: r7kHUuCpDCS39yT6yobF89FdEXg=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 3xJrboYEGYuAR/ebyMPOQEbe3no=
+
+Name: assets/www/quiz/css/quiz-ie7.css
+SHA1-Digest: dZWHwujy6E79gmTCtF8/0/2l/IA=
+
+Name: assets/www/css/materialize.min.css
+SHA1-Digest: iaKqGVySYSti341R15g4TsUNopI=
+
+Name: assets/www/quiz/css/multiplechoice-print.css
+SHA1-Digest: Vvsj/Ct5OXB4/+3wFS6Ot0eLQ70=
+
+Name: assets/www/fonts/roboto/Roboto-Light.woff2
+SHA1-Digest: u9wouIdAD8s0C1BOwpBJk69Cpdc=
+
+Name: assets/www/fonts/roboto/Roboto-Bold.woff
+SHA1-Digest: 7pnNh6Waml1AksgyMrs+7GdUdCU=
+
+Name: assets/www/quiz/images/crossword-quiz_bg.png
+SHA1-Digest: k6AYSRuHBGxYN1fg23IpP/dAaDM=
+
+Name: assets/www/quiz/css/memo.css
+SHA1-Digest: qAT7K866nkJHum/3HfldrAWoiWE=
+
+Name: assets/www/fonts/roboto/Roboto-Bold.ttf
+SHA1-Digest: RzJ98PNefNfIZFh0iXp0SWl1RK4=
+
+Name: assets/www/quiz/images/blume02.gif
+SHA1-Digest: C/K0kzFyij+AdaC8flEl4aJUeWQ=
+
+Name: assets/www/quiz/images/blume05.gif
+SHA1-Digest: WTEXJglCW5d1Hcuho14OOnGDRk8=
+
+Name: classes.dex
+SHA1-Digest: txlz/ieuT61gINDGmmc1wMajM4A=
+
+Name: assets/www/font/roboto/Roboto-Bold.woff
+SHA1-Digest: 7pnNh6Waml1AksgyMrs+7GdUdCU=
+
+Name: assets/www/icon.css
+SHA1-Digest: zf/LhqbgwcmkxvgnnNychuknFFU=
+
+Name: assets/www/res/android/mipmap-mdpi/ic_launcher.png
+SHA1-Digest: I7Vr1d1GPYokyNtiFcIBpXu1O5k=
+
+Name: assets/www/material.js
+SHA1-Digest: lt+1X6qxKypHcISrOWiB9JYhnZM=
+
+Name: res/drawable-ldpi-v4/icon.png
+SHA1-Digest: 2J9Tvy/YaxPRs/ZafKZe/EsVt/o=
+
+Name: assets/www/material.css
+SHA1-Digest: O1mdVDLD00hOzR4/HYlrcTcbwrI=
+
+Name: assets/www/quiz/css/lueckentext.css
+SHA1-Digest: /+eFIGFtsC4oXrgTLF8paGIs0yU=
+
+Name: assets/www/quiz/css/quiz.css
+SHA1-Digest: G/9oVeJAZBTUYkg3YBKFs2cWqNY=
+
+Name: assets/www/quiz/images/blume01.gif
+SHA1-Digest: GOcnIp1h59Ixr3TA/ESbvuc7Db4=
+
+Name: assets/www/quiz/images/memo-quiz_bg.png
+SHA1-Digest: bXUoXkzmfdaAeYRUJfXWqHYfwb0=
+
+Name: assets/www/font/roboto/Roboto-Regular.ttf
+SHA1-Digest: gktUgMl3qBZuF35TV9ExZMzEX0c=
+
+Name: assets/www/fonts/roboto/Roboto-Thin.eot
+SHA1-Digest: B5ClGoSNvnKSyY+dBFkhi/Go/90=
+
+Name: assets/www/quiz/images/blume00.gif
+SHA1-Digest: faGKW8fQux92jtR3K4lMCWvChDQ=
+
+Name: assets/www/quiz/css/anzeige-blocker.css
+SHA1-Digest: 8MlsTajpdyP/zjSerwcYhJspZAw=
+
+Name: assets/www/font/roboto/Roboto-Medium.woff
+SHA1-Digest: 1F+EkiExNkmJrWV4x6Bra0/CLDQ=
+
+Name: assets/www/quiz/images/blume08.gif
+SHA1-Digest: qlrDariM897Wxiq0CfB6uBhevLU=
+
+Name: assets/www/quiz/images/blume07.gif
+SHA1-Digest: TAgySHhJKnA0VppJj8WqyQ31B6w=
+
+Name: assets/www/font/roboto/Roboto-Thin.eot
+SHA1-Digest: B5ClGoSNvnKSyY+dBFkhi/Go/90=
+
+Name: assets/www/font/material-design-icons/Material-Design-Icons.woff
+SHA1-Digest: 7ncYRVb3tm/LjulJb4GsYveS19w=
+
+Name: assets/www/font/roboto/Roboto-Light.woff2
+SHA1-Digest: u9wouIdAD8s0C1BOwpBJk69Cpdc=
+
+Name: assets/www/quiz/css/kreuzwort.css
+SHA1-Digest: 6p5UdCm2qT/IVkQ1r7N78ICqyJM=
+
+Name: assets/www/font/roboto/Roboto-Thin.ttf
+SHA1-Digest: Fz7WRSi00BCnbY043rHX5+7Vjto=
+
+Name: assets/www/fonts/roboto/Roboto-Light.ttf
+SHA1-Digest: 4yHBg+K3XuGYE4kre6yNfEEcuIo=
+
+Name: assets/www/quiz/css/suchsel.css
+SHA1-Digest: JFyZzshEd5iUaHBaV4XkPKEmhbU=
+
+Name: assets/www/fonts/roboto/Roboto-Thin.woff
+SHA1-Digest: +8PnHUVslmZ9gIKrkQ45Ru+JJAs=
+
+Name: assets/www/res/android/mipmap-hdpi/ic_launcher.png
+SHA1-Digest: QYWaCy++UxutitosbNXueJ2VISc=
+
+Name: assets/www/res/android/mipmap-ldpi/ic_launcher.png
+SHA1-Digest: YOVM8uKI8cpIPFoTUjxyWGdmtto=
+
+Name: assets/www/quiz/images/blume10.gif
+SHA1-Digest: Yzvv3pPdsJA9cGzTXeObgk20KLE=
+
+Name: assets/www/quiz/images/multiplechoice-quiz_bg.png
+SHA1-Digest: pBXmni2qJOINXycSd2Ok4mb01oc=
+
+Name: res/drawable-xhdpi-v4/icon.png
+SHA1-Digest: V29pfkn63ZKvWbMehv1gXLydfEg=
+
+Name: assets/www/res/android/mipmap-xhdpi/ic_launcher.png
+SHA1-Digest: 8ymN/G9XDna4AlYXbBTnQ0XXeKw=
+
+Name: assets/www/quiz/css/kreuzwort-print.css
+SHA1-Digest: XZhnNRSAQc0EAGlZLIxSuBin2bY=
+
+Name: assets/www/quiz/css/memo-ie6.css
+SHA1-Digest: BiLxOTEDr65O79ILVHgXNToLXgk=
+
+Name: assets/www/quiz/images/blume06.gif
+SHA1-Digest: IkwhjHKbg+tqad3GD/J8GOxtCpY=
+
+Name: assets/www/fonts/roboto/Roboto-Medium.woff2
+SHA1-Digest: bMG3NXGvnoJ8Tn6RQY9HZwPNTEs=
+
+Name: assets/www/font/roboto/Roboto-Thin.woff2
+SHA1-Digest: JEnj2sXdt8Pai7B0UEk7YtBSdYw=
+
+Name: assets/www/index.html
+SHA1-Digest: ToEz7VDdc1avMEQzb30oZZDrIrg=
+
+Name: assets/www/quiz/css/buchstabenraten.css
+SHA1-Digest: hyt9t8+hEfeUjAM1HASy2Zgy/9M=
+
+Name: assets/www/res/android/playstore-icon.png
+SHA1-Digest: mOlavYKZJCgTBtlcFNYPraDOuVU=
+
+Name: res/drawable-mdpi-v4/icon.png
+SHA1-Digest: Lw/SqxqQxDgeX1jWQ7pEzoJ873E=
+
+Name: assets/www/font/roboto/Roboto-Light.ttf
+SHA1-Digest: 4yHBg+K3XuGYE4kre6yNfEEcuIo=
+
+Name: assets/www/quiz/utf8-normalizer.js
+SHA1-Digest: uD91SxZwjBQ0c6s/EOZEGGgF+xE=
+
+Name: assets/www/fonts/roboto/Roboto-Medium.eot
+SHA1-Digest: FRf0tuHF0OUZj5N1VyU6rI+rBBY=
+
+Name: assets/www/quiz/css/matching-print.css
+SHA1-Digest: WufN+zLQ1edGrnNR+b3r+Mm/w/Y=
+
+Name: assets/www/font/material-design-icons/Material-Design-Icons.woff
+ 2
+SHA1-Digest: I1XLT4JNBwvELEzmuXyrca8fTKI=
+
+Name: assets/www/font/roboto/Roboto-Light.eot
+SHA1-Digest: Qv4VaZYZfl6wwCZMXRuztGgfRZU=
+
+Name: assets/www/font/roboto/Roboto-Regular.eot
+SHA1-Digest: d64+mA7AOGPr4lh6jvnd/QaUHbA=
+
+Name: assets/www/css/materialize.css
+SHA1-Digest: FVzeI+K74UJ/Ys3OzGXpTtQszNM=
+
+Name: assets/www/phonegap.js
+SHA1-Digest: 09ZWDrQSJMRayDv25DH7S5m8oNI=
+
+Name: assets/www/fonts/roboto/Roboto-Light.eot
+SHA1-Digest: Qv4VaZYZfl6wwCZMXRuztGgfRZU=
+
+Name: assets/www/quiz/images/help.gif
+SHA1-Digest: SeyI2hN5k5YfOHDGCcFmGcMRtbM=
+
+Name: assets/www/2fcrYFNaTjcS6g4U3t-Y5ZjZjT5FdEJ140U2DJYC3mY.woff2
+SHA1-Digest: 1GK5YC8Mnh1qqY+u+is3K6+7tHQ=
+
+Name: assets/www/font/roboto/Roboto-Regular.woff2
+SHA1-Digest: 7RVYsFQfXgHOSMfbFYg3G5kO7Bk=
+
+Name: assets/www/quiz/images/wordfind-quiz_bg.png
+SHA1-Digest: iM46QbEyrr2fe2FGtUoypt3IiSU=
+
+Name: assets/www/quiz/images/matching-quiz_bg.png
+SHA1-Digest: XUyyTUuwoCmbDsAlclCwVheLcm0=
+
+Name: assets/www/fonts/roboto/Roboto-Light.woff
+SHA1-Digest: YwD2Wb6eg0qyY+/i+zxYHUix57I=
+
+Name: assets/www/quiz/images/eingabe_header.png
+SHA1-Digest: jZyCOUgzPD1/DOq2YlBUtQb+j44=
+
+Name: assets/www/font/material-design-icons/Material-Design-Icons.ttf
+SHA1-Digest: LLZqxzotMq6NL4B/cF7/Jvz5MyM=
+
+Name: assets/www/font/roboto/Roboto-Bold.ttf
+SHA1-Digest: RzJ98PNefNfIZFh0iXp0SWl1RK4=
+
+Name: assets/www/font/roboto/Roboto-Medium.woff2
+SHA1-Digest: bMG3NXGvnoJ8Tn6RQY9HZwPNTEs=
+
+Name: assets/www/fonts/roboto/Roboto-Thin.woff2
+SHA1-Digest: JEnj2sXdt8Pai7B0UEk7YtBSdYw=
+
+Name: assets/www/fonts/roboto/Roboto-Regular.woff2
+SHA1-Digest: 7RVYsFQfXgHOSMfbFYg3G5kO7Bk=
+
+Name: assets/www/material.min.js
+SHA1-Digest: e1gUBPHGvRIErUbffWFdwyD1mEo=
+
+Name: assets/www/fonts/roboto/Roboto-Medium.woff
+SHA1-Digest: 1F+EkiExNkmJrWV4x6Bra0/CLDQ=
+
+Name: assets/www/package.json
+SHA1-Digest: 7Hns1ywTRYYzUZR3CH+MP5hNRlU=
+
+Name: assets/www/font/roboto/Roboto-Medium.eot
+SHA1-Digest: FRf0tuHF0OUZj5N1VyU6rI+rBBY=
+
+Name: assets/www/fonts/roboto/Roboto-Regular.woff
+SHA1-Digest: dHNN3o2U5yaBcPm5lN7fvctbOhU=
+
+Name: assets/www/font/roboto/Roboto-Bold.eot
+SHA1-Digest: p2zWAvUYi5+9S6dEPcucBk49vxA=
+
+Name: assets/www/fonts/roboto/Roboto-Thin.ttf
+SHA1-Digest: Fz7WRSi00BCnbY043rHX5+7Vjto=
+
+Name: assets/www/js/materialize.min.js
+SHA1-Digest: 33S7xc/mTHof/rOAHYQQqlDpoBE=
+
+Name: assets/www/fonts/roboto/Roboto-Bold.eot
+SHA1-Digest: p2zWAvUYi5+9S6dEPcucBk49vxA=
+
+Name: assets/www/font/material-design-icons/LICENSE.txt
+SHA1-Digest: VA5DrqmTraDJtLUK5YQ0lNi3zCg=
+
+Name: assets/www/js/init.js
+SHA1-Digest: PyaIIID01knaQYE/IQjNXZwlnPk=
+
+Name: assets/www/quiz/images/blume04.gif
+SHA1-Digest: qqlGQ1x50d2ozb7xSlMZ+Qfvvg4=
+
+Name: assets/www/quiz/css/suchsel-print.css
+SHA1-Digest: 4kErezjF346zYvu6PJYfjazm6/o=
+
